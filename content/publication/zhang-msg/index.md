@@ -3,7 +3,7 @@ title: 'MSGFuzzer: Message Sequence Guided Industrial Robot Protocol Fuzzing (To
 authors:
 - Yang Zhang
 - Doliang Fang
-- Puzhuo Liu
+- admin
 - Laile Xi
 - Xiao Lu
 - Shuaizong Si

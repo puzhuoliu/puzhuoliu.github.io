@@ -2,7 +2,7 @@
 title: 'Battling against Protocol Fuzzing: Protecting Networked Embedded Devices from
   Dynamic Fuzzers (To Appear)'
 authors:
-- Puzhuo Liu
+- admin
 - Yaowen Zheng
 - Chengnian Sun
 - Hong Li

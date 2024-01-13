@@ -2,7 +2,7 @@
 title: Fuzzing proprietary protocols of programmable controllers to find vulnerabilities
   that affect physical control
 authors:
-- Puzhuo Liu
+- admin
 - Yaowen Zheng
 - Zhanwei Song
 - Dongliang Fang

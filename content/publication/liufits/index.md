@@ -2,7 +2,7 @@
 title: 'FITS: Inferring Intermediate Taint Sources for Effective Vulnerability Analysis
   of IoT Device Firmware (To Appear)'
 authors:
-- Puzhuo Liu
+- admin
 - Yaowen Zheng
 - Chengnian Sun
 - Chuan Qin

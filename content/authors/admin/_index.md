@@ -38,7 +38,7 @@ interests:
 education:
   courses:
     - course: PhD
-      institution: Institute of Information Engineering，Chinese Academy of Sciences; School of Cyberspace Security, University of Chinese Academy of Sciences
+      institution: Institute of Information Engineering, Chinese Academy of Sciences; School of Cyberspace Security, University of Chinese Academy of Sciences
       year: 2018.9 - 2024.6
     - course: BSc
       institution: School of Communication Engineering, Jilin University

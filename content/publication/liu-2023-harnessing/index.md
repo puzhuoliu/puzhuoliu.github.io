@@ -1,7 +1,7 @@
 ---
 title: Harnessing the power of llm to support binary taint analysis
 authors:
-- Puzhuo Liu
+- admin
 - Chengnian Sun
 - Yaowen Zheng
 - Xuan Feng
