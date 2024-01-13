@@ -39,11 +39,10 @@ education:
   courses:
     - course: PhD in Cyber Security
       institution: Institute of Information Engineering，Chinese Academy of Sciences; School of Cyberspace Security, University of Chinese Academy of Sciences
-      year: 2018.9 - 2024.7 (Expected)
+      year: 2024
     - course: BSc in Communication Engineering
       institution: Jilin University
-      year: 2014.9 - 2018.7
-
+      year: 2018
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 # skills:
