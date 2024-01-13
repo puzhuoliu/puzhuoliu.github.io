@@ -1,7 +1,7 @@
 ---
 title: Finding Vulnerabilities in Internal-binary of Firmware with Clues
 authors:
-- **Puzhuo Liu**
+- Puzhuo Liu
 - Dongliang Fang
 - Chuan Qin
 - Kai Cheng
