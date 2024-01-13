@@ -38,10 +38,10 @@ interests:
 education:
   courses:
     - course: PhD in Cyberspace Security
-      institution: Institute of Information Engineering，Chinese Academy of Sciences; School of Cyberspace Security, University of Chinese Academy of Sciences
-      year: 2018.9 - 2024
+      institution: Institute of Information Engineering，Chinese Academy of Sciences; University of Chinese Academy of Sciences
+      year: 2018.9 - 2024.6
     - course: BSc in Communication Engineering
-      institution: Jilin University
+      institution: Jilin University <br>
       year: 2014.9 - 2018.6
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
