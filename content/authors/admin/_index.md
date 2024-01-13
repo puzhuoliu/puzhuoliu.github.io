@@ -37,12 +37,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Cyber Security
+    - course: PhD in Cyberspace Security
       institution: Institute of Information Engineering，Chinese Academy of Sciences; School of Cyberspace Security, University of Chinese Academy of Sciences
-      year: 2024
+      year: 2018.9 - 2024
     - course: BSc in Communication Engineering
       institution: Jilin University
-      year: 2018
+      year: 2014.9 - 2018.6
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 # skills:
@@ -117,5 +117,7 @@ social:
 highlight_name: true
 ---
 
-<!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"} -->
+Puzhuo Liu is a PhD candidate of  University of Chinese Academy of Sciences (expected to graduate in June 2024). 
+His research interests are in the testing and analysis of embedded devices, including protocols, software, and systems.
+He is looking for job opportunities (postdoc or engineer).
+{style="text-align: justify;"}
