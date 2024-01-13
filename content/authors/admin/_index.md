@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Puzhuo Liu 刘圃卓
+title: Puzhuo Liu
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -37,11 +37,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Cyberspace Security
-      institution: Institute of Information Engineering，Chinese Academy of Sciences; University of Chinese Academy of Sciences
+    - course: PhD
+      institution: Institute of Information Engineering，Chinese Academy of Sciences; School of Cyberspace Security, University of Chinese Academy of Sciences
       year: 2018.9 - 2024.6
-    - course: BSc in Communication Engineering
-      institution: Jilin University <br>
+    - course: BSc
+      institution: School of Communication Engineering, Jilin University
       year: 2014.9 - 2018.6
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

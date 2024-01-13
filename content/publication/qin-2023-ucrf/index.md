@@ -4,7 +4,7 @@ title: 'UCRF: Static analyzing firmware to generate under-constrained seed for f
 authors:
 - Chuan Qin
 - Jiaqian Peng
-- Puzhuo Liu
+- admin
 - Yaowen Zheng
 - Kai Cheng
 - Weidong Zhang
