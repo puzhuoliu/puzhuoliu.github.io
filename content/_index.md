@@ -230,7 +230,7 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  - block: acticities
+  - block: contact
     id: act
     content:
       title: Acticities
