@@ -234,9 +234,10 @@ sections:
     id: act
     content:
       title: Acticities
-      subtitle:''
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      subtitle: ''
       #text: |-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      
         #**Journal Reviewer**
         #- CyberSecurity
         #- XXX
