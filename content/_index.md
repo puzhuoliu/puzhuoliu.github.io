@@ -230,6 +230,17 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
+  - block: collection
+    id: act
+    content:
+      title: Acticities
+      text: |-
+      **Journal Reviewer**
+      - CyberSecurity
+      - XXX
+    design:
+      columns: '2'
+
   - block: contact
     id: contact
     content:
