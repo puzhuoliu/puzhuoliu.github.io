@@ -1,5 +1,5 @@
 ---
-title: 'ICS^3fuzzer: A framework for discovering protocol implementation bugs in ics
+title: 'ICS$^3$fuzzer: A framework for discovering protocol implementation bugs in ics
   supervisory software by fuzzing'
 authors:
 - Dongliang Fang
