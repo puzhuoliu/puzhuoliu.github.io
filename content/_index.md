@@ -236,11 +236,11 @@ sections:
       title: Acticities
       subtitle: ''
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      
-        #**Journal Reviewer**
-        #- CyberSecurity
-        #- XXX
+        **Journal Reviewer**
+
+        - CyberSecurity
+        
+        - XXX
     design:
       columns: '2'
 
