@@ -12,5 +12,5 @@ date: '2022-01-01'
 publishDate: '2024-01-13T04:05:37.979245Z'
 publication_types:
 - paper-conference
-publication: '*ICC 2022-IEEE International Conference on Communications*'
+publication: '*ICC 2022-IEEE International Conference on Communications (ICC)*'
 ---

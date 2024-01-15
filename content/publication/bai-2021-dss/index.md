@@ -11,5 +11,5 @@ date: '2021-01-01'
 publishDate: '2024-01-13T04:05:37.967138Z'
 publication_types:
 - paper-conference
-publication: '*International Conference on Applied Cryptography and Network Security*'
+publication: '*International Conference on Applied Cryptography and Network Security (ACNS)*'
 ---
