@@ -21,10 +21,10 @@ marketing:
     description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
+    google_analytics: 'Puzhuo Liu'
+    baidu_tongji: 'Puzhuo Liu'
+    google_tag_manager: 'Puzhuo Liu'
+    microsoft_clarity: 'Puzhuo Liu'
   verification:
     google: ''
     baidu: ''
