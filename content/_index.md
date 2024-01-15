@@ -230,7 +230,7 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  - block: collection
+  - block: acticities
     id: act
     content:
       title: Acticities
@@ -239,8 +239,10 @@ sections:
         **Journal Reviewer**
 
         - CyberSecurity
-        
-        - XXX
+
+        - Journal of Systems Architecture
+
+        - IEEE Transactions on Software Engineering
     design:
       columns: '2'
 
