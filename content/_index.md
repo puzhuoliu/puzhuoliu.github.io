@@ -234,10 +234,11 @@ sections:
     id: act
     content:
       title: Acticities
+      subtitle:''
       text: |-
-      **Journal Reviewer**
-      - CyberSecurity
-      - XXX
+        **Journal Reviewer**
+        - CyberSecurity
+        - XXX
     design:
       columns: '2'
 
