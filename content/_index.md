@@ -235,10 +235,11 @@ sections:
     content:
       title: Acticities
       subtitle:''
-      text: |-
-        **Journal Reviewer**
-        - CyberSecurity
-        - XXX
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      #text: |-
+        #**Journal Reviewer**
+        #- CyberSecurity
+        #- XXX
     design:
       columns: '2'
 
