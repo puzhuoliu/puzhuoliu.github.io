@@ -236,12 +236,10 @@ sections:
       title: Acticities
       subtitle: ''
       text: |-
-        **Journal Reviewer**
+        **Journal Reviewer:**
 
         - CyberSecurity
-
         - Journal of Systems Architecture
-
         - IEEE Transactions on Software Engineering
     design:
       columns: '2'
