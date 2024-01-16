@@ -31,7 +31,7 @@ bio: My research interests are in the testing and analysis of embedded devices, 
 # Interests to show in About widget
 interests:
   - Protocol Testing
-  - Firmware/Bianry Testing
+  - Firmware/Binary Testing
   - AI-assisted Testing
 
 # Education to show in About widget
