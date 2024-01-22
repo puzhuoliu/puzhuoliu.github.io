@@ -102,7 +102,7 @@ social:
     link: https://scholar.google.com.hk/citations?user=nik_yegAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: https://github.com/liupuz
+    link: https://github.com/puzhuoliu
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
