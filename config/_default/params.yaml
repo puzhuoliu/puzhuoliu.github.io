@@ -19,12 +19,12 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
-  analytics:
-    google_analytics: 'Puzhuo Liu'
-    baidu_tongji: 'Puzhuo Liu'
-    google_tag_manager: 'Puzhuo Liu'
-    microsoft_clarity: 'Puzhuo Liu'
+    # twitter: 'GetResearchDev'
+  # analytics:
+  #   google_analytics: 'google51190415cc096ba7.html'
+  #   baidu_tongji: 'Puzhuo Liu'
+  #   google_tag_manager: 'Puzhuo Liu'
+  #   microsoft_clarity: 'Puzhuo Liu'
   verification:
     google: 'google51190415cc096ba7.html'
     baidu: ''
