@@ -26,7 +26,7 @@ marketing:
   #   google_tag_manager: 'Puzhuo Liu'
   #   microsoft_clarity: 'Puzhuo Liu'
   verification:
-    google: 'google51190415cc096ba7.html'
+    google: 'google51190415cc096ba7'
     baidu: ''
 
 # Site header
