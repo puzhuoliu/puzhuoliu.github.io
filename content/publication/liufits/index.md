@@ -1,6 +1,6 @@
 ---
 title: 'FITS: Inferring Intermediate Taint Sources for Effective Vulnerability Analysis
-  of IoT Device Firmware (To Appear)'
+  of IoT Device Firmware'
 authors:
 - admin
 - Yaowen Zheng
@@ -13,6 +13,6 @@ date: '2024-01-01'
 publishDate: '2024-01-13T11:43:53.857020Z'
 publication_types:
 - paper-conference
-publication: '*2024 Architectural Support for Programming Languages and Operating
+publication: '*2023 Architectural Support for Programming Languages and Operating
   Systems (ASPLOS)*'
 ---

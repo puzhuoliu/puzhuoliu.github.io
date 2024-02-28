@@ -23,7 +23,7 @@ marketing:
   analytics:
     google_analytics: 'G-4XWQM6NFLP'
   #   baidu_tongji: 'Puzhuo Liu'
-  #   google_tag_manager: 'Puzhuo Liu'
+    google_tag_manager: 'G-4XWQM6NFLP'
   #   microsoft_clarity: 'Puzhuo Liu'
   verification:
     google: 'google51190415cc096ba7'
