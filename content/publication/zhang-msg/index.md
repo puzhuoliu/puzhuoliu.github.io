@@ -1,5 +1,5 @@
 ---
-title: 'MSGFuzzer: Message Sequence Guided Industrial Robot Protocol Fuzzing (To Appear)'
+title: 'MSGFuzzer: Message Sequence Guided Industrial Robot Protocol Fuzzing'
 authors:
 - Yang Zhang
 - Doliang Fang

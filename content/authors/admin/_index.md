@@ -30,39 +30,23 @@ bio: My research interests are in the testing and analysis of embedded devices, 
 
 # Interests to show in About widget
 interests:
-  - Protocol Testing
-  - Firmware/Binary Testing
-  - AI-assisted Testing
+  - Protocol Analysis and Testing
+  - Firmware/Binary Analysis and Testing
+  - AI-assisted Analysis and Testing
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD
       institution: Institute of Information Engineering, Chinese Academy of Sciences; School of Cyberspace Security, University of Chinese Academy of Sciences
-      year: 2018.9 - 2024.6
+      year: 2018.9 - 2024.7
     - course: B.Eng
       institution: School of Communication Engineering, Jilin University
-      year: 2014.9 - 2018.6
+      year: 2014.9 - 2018.7
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-# skills:
-#   - name: Technical
-#     items:
-#       - name: Python
-#         description: ''
-#         percent: 80
-#         icon: python
-#         icon_pack: fab
-#       - name: Data Science
-#         description: ''
-#         percent: 100
-#         icon: chart-line
-#         icon_pack: fas
-#       - name: SQL
-#         description: ''
-#         percent: 40
-#         icon: database
-#         icon_pack: fas
+news:
+  - name:  I'm in the job market!
 #   - name: Hobbies
 #     color: '#eeac02'
 #     color_border: '#f0bf23'
@@ -119,5 +103,4 @@ highlight_name: true
 
 Puzhuo Liu is a PhD candidate of  University of Chinese Academy of Sciences (expected to graduate in June 2024). 
 His research interests are in the testing and analysis of embedded devices, including protocols, software, and systems.
-He is looking for job opportunities (postdoc or engineer).
 {style="text-align: justify;"}
