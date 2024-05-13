@@ -45,8 +45,8 @@ education:
       year: 2014.9 - 2018.7
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-# news:
-#   - name:  I'm in the job market!
+news:
+  - name:  I'm in the job market!
 #   - name: Hobbies
 #     color: '#eeac02'
 #     color_border: '#f0bf23'

@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-5-10
 type: landing
 
 sections:
@@ -42,14 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  # - block: News
-  #   content:
-  #     title: News
-  #     text: ''
-  #     # Choose a user to display skills from (a folder name within `content/authors/`)
-  #     username: admin
-  #   design:
-  #     columns: '1'
+  - block: Skills
+    content:
+      title: News
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
   # - block: experience
   #   content:
   #     title: Experience
