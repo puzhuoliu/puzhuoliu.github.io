@@ -254,6 +254,20 @@ sections:
       columns: '2'
 
   - block: contact
+    id: awards
+    content:
+      title: Honors and Awards
+      subtitle: ''
+      text: |-
+          - 2024 Outstanding Graduates of Beijing
+          - 2023 National Scholarship (CNY 30,000) 
+          - 2023 Special Scholarship of Institute of Information Engineering, Chinese Academy of Sciences (CNY 5,000)
+          - 2022 DataCon IoT Security Track Third Prize (CNY 8,000) 
+          - 2021 DataCon Email Security Track Runner-up Award (CNY 30,000)
+    design:
+      columns: '2'
+
+  - block: contact
     id: contact
     content:
       title: Contact
