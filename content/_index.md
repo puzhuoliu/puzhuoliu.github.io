@@ -67,7 +67,7 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Hangzhou
-          date_start: '20224-09-01'
+          date_start: '2016-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
