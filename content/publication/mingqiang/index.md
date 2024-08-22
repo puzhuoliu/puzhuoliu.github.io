@@ -14,5 +14,5 @@ publishDate: '2024-08-22T01:43:14.037281Z'
 publication_types:
 - paper-conference
 publication: '*The 22nd IEEE International Symposium on Parallel and Distributed Processing
-  with Applications*'
+  with Applications (ISPA)*'
 ---
