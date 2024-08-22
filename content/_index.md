@@ -65,7 +65,7 @@ sections:
         - title: Senior Engineer 
           company: Ang Group
           company_url: ''
-          company_logo: org-gc
+          company_logo: ant
           location: Hangzhou
           date_start: '2024-09-01'
           date_end: ''
