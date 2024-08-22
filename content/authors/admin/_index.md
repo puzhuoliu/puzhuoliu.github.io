@@ -32,7 +32,7 @@ bio: My research interests are in the testing and analysis of embedded devices, 
 interests:
   - Reverse Engineering
   - Static Analysis
-  - Dynamic testing
+  - Dynamic Testing
   - AI/LLM
 
 # Education to show in About widget
