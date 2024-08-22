@@ -103,4 +103,6 @@ highlight_name: true
 ---
 
 My research focuses on software engineering and cybersecurity, with an emphasis on enhancing software reliability and quality through static analysis and dynamic testing. Additionally, I am exploring the application of artificial intelligence and large language models to support and advance program analysis and testing techniques.
+
+If you are interested in my research, please feel free to contact me via email. I would be happy to discuss collaboration opportunities.
 {style="text-align: justify;"}
