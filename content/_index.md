@@ -234,7 +234,7 @@ sections:
       title: Vulnerabilitits
       subtitle: ''
       text: |-
-        - **Obtained more than 100 vulnerability confirmation numbers such as CVE and CNVD, and received thanks from Cisco, Siemens, and D-Link:**
+        **Obtained 100+ vulnerability confirmation numbers such as CVE and CNVD, and received thanks from Cisco, Siemens, and D-Link:**
           - CVE-2020-25242
           - CVE-2022-20825
     design:
