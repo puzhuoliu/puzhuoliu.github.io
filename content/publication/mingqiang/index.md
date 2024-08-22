@@ -3,7 +3,7 @@ title: Adversarial Attack Against Intrusion Detectors in Cyber-Physical Systems 
   Minimal Perturbations
 authors:
 - Mingqiang Bai
-- Puzhuo Liu
+- admin
 - Fei Lv
 - Dongliang Fang
 - Shichao Lv
