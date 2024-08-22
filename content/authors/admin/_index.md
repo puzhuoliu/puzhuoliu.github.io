@@ -30,9 +30,9 @@ bio: My research interests are in the testing and analysis of embedded devices, 
 
 # Interests to show in About widget
 interests:
-  - Protocol Analysis and Testing
-  - Firmware/Binary Analysis and Testing
-  - AI-assisted Analysis and Testing
+  - Reverse Engineering
+  - Static Analysis
+  - Dynamic testing
 
 # Education to show in About widget
 education:
