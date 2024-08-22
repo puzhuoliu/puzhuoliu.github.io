@@ -17,12 +17,12 @@ last_name: Liu
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Senior Engineer & PostDoc
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Chinese Academy of Sciences
-    url: https://www.ucas.ac.cn/
+  - name: Ant Group & Tsinghua University
+    # url: https://www.ucas.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are in the testing and analysis of embedded devices, including protocols, software, and systems.
@@ -37,11 +37,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD
-      institution: Institute of Information Engineering, Chinese Academy of Sciences; School of Cyberspace Security, University of Chinese Academy of Sciences
+    - course: PhD in Cyberspace Security
+      institution: University of Chinese Academy of Sciences
       year: 2018.9 - 2024.7
-    - course: B.Eng
-      institution: School of Communication Engineering, Jilin University
+    - course: B.Eng in Communication Engineering
+      institution:  Jilin University
       year: 2014.9 - 2018.7
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -101,6 +101,5 @@ social:
 highlight_name: true
 ---
 
-Puzhuo Liu is a PhD candidate of  University of Chinese Academy of Sciences (expected to graduate in June 2024). 
-His research interests are in the testing and analysis of embedded devices, including protocols, software, and systems.
+My research focuses on software engineering and cybersecurity, with an emphasis on enhancing software reliability and quality through static analysis and dynamic testing. Additionally, I am exploring the application of artificial intelligence and large language models to support and advance program analysis and testing techniques.
 {style="text-align: justify;"}
