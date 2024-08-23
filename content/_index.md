@@ -266,7 +266,7 @@ sections:
           - 2018-2023 University of Chinese Academy of Sciences Scholarships
           - 2022 DataCon IoT Security Track Third Prize  
           - 2021 DataCon Email Security Track Runner-up Prize
-          - 2014- 2018 Jilin University Scholarships
+          - 2014-2018 Jilin University Scholarships
     design:
       columns: '2'
 
