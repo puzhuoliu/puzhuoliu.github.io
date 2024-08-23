@@ -260,11 +260,13 @@ sections:
       subtitle: ''
       text: |-
           - 2024 Outstanding Graduates of Beijing
-          - 2023 National Scholarship (CNY 30,000) 
-          - 2023 Special Scholarship of Institute of Information Engineering, Chinese Academy of Sciences (CNY 5,000)
+          - 2023 National Scholarship 
+          - 2023 Special Scholarship of Institute of Information Engineering, Chinese Academy of Sciences
           - 2023 Merit Student Representative of University of Chinese Academy of Sciences
-          - 2022 DataCon IoT Security Track Third Prize (CNY 8,000) 
-          - 2021 DataCon Email Security Track Runner-up Award (CNY 30,000)
+          - 2018-2023 University of Chinese Academy of Sciences Scholarships
+          - 2022 DataCon IoT Security Track Third Prize  
+          - 2021 DataCon Email Security Track Runner-up Prize
+          - 2014- 2018 Jilin University Scholarships
     design:
       columns: '2'
 
