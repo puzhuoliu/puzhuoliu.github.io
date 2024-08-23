@@ -261,7 +261,7 @@ sections:
       text: |-
           - 2024 Outstanding Graduates of Beijing
           - 2023 National Scholarship 
-          - 2023 Special Scholarship of Institute of Information Engineering, Chinese Academy of Sciences
+          - 2023 Special Scholarship of Institute of Information Engineering, CAS
           - 2023 Merit Student Representative of University of Chinese Academy of Sciences
           - 2018-2023 University of Chinese Academy of Sciences Scholarships
           - 2022 DataCon IoT Security Track Third Prize  
