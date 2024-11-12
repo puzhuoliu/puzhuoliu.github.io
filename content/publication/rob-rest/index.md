@@ -2,7 +2,7 @@
 title: Automated Flaw Detection for Industrial Robot RESTful Service
 authors:
 - Yuncheng Wang
-- Puzhuo Liu
+- admin
 - Dongliang Fang
 - Zhiwen Pan
 - Shuaizong Si
