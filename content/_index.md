@@ -259,7 +259,9 @@ sections:
       title: Honors & Awards
       subtitle: ''
       text: |-
+          - 2024 AntStar of Ant Group
           - 2024 Outstanding Graduates of Beijing
+          - 2024 Outstanding Graduates of University of Chinese Academy of Sciences
           - 2023 National Scholarship 
           - 2023 Special Scholarship of Institute of Information Engineering, CAS
           - 2023 Merit Student Representative of University of Chinese Academy of Sciences
