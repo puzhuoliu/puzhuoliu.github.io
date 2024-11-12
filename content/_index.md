@@ -250,6 +250,7 @@ sections:
           - CyberSecurity
           - Journal of Systems Architecture
           - IEEE Transactions on Software Engineering
+          - Computer & Security
     design:
       columns: '2'
 
