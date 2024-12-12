@@ -3,7 +3,7 @@ title: Integrated Risk Assessment Algorithm for Functional Safety and Informatio
 authors:
 - ' Yetong Ma'
 - ' Yunjie Ding'
-- ' Puzhuo Liu '
+- admin
 - ' Shichao Lv'
 - ' Zhiwen Pan '
 - ' Limin Sun'

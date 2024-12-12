@@ -1,7 +1,7 @@
 ---
 title: Survey on the Integration of Safety and Security in Indus-trial Control Systems
 authors:
-- ' Puzhuo Liu'
+- admin
 - ' Yetong Ma'
 - ' Shichao Lv '
 - ' Dongliang Fang'

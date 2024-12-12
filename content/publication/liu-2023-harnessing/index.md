@@ -7,11 +7,14 @@ authors:
 - Xuan Feng
 - Chuan Qin
 - Yuncheng Wang
+- Zhenyang Xu
 - Zhi Li
+- Peng Di
+- Yu Jiang
 - Limin Sun
-date: '2023-01-01'
-publishDate: '2024-01-13T04:05:37.973214Z'
+date: '2025-01-01'
+publishDate: '2025-01-13T04:05:37.973214Z'
 publication_types:
 - article-journal
-publication: '*arXiv preprint arXiv:2310.08275*'
+publication: 'ACM Transactions on Software Engineering and Methodology'
 ---
