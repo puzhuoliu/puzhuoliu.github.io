@@ -1,5 +1,5 @@
 ---
-title: Harnessing the power of llm to support binary taint analysis
+title: LLM-Powered Static Binary Taint Analysis
 authors:
 - admin
 - Chengnian Sun
