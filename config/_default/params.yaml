@@ -46,11 +46,11 @@ header:
 footer:
   copyright:
     notice: 'Updated on 2024.11.12.'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    # license:
+    #   enable: true
+    #   allow_derivatives: false
+    #   share_alike: true
+    #   allow_commercial: false
 
 # Localization
 
