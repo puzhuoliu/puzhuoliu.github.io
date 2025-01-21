@@ -30,10 +30,8 @@ bio: My research interests are in the testing and analysis of embedded devices, 
 
 # Interests to show in About widget
 interests:
-  - Reverse Engineering
   - Static Analysis
   - Dynamic Testing
-  - AI/LLM
 
 # Education to show in About widget
 education:
@@ -102,7 +100,7 @@ social:
 highlight_name: true
 ---
 
-My research focuses on software engineering and cybersecurity, with an emphasis on enhancing software reliability and quality through static analysis and dynamic testing. Additionally, I am exploring the application of AI to support program analysis and testing techniques.
+My research focuses on cybersecurity and software engineering, with an emphasis on enhancing software (binary) reliability, quality and security through static analysis and dynamic testing. Additionally, I am exploring the application of AI to support program analysis and testing techniques.
 
 If you are interested in my research, please feel free to contact me via email. I would be happy to discuss collaboration opportunities.
 {style="text-align: justify;"}
