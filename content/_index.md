@@ -232,9 +232,10 @@ sections:
       title: Vulnerabilitits
       subtitle: ''
       text: |-
-        **Obtained over 100 vulnerability confirmations, and received acknowledgments from companies such as Cisco, Siemens, and D-Link. My cumulative bounty rewards total $8,000.**
-          - CVE-2020-25242
-          - CVE-2022-20825
+        **Received over 200 confirmed vulnerabilities for embedded devices (e.g., vendor acknowledgement, CVE, CNVD, PSV), including from Cisco, Siemens, D-Link, and others.**
+#          - CVE-2020-25242
+#          - CVE-2022-20825
+#          - ...
     design:
       columns: '2'
 
