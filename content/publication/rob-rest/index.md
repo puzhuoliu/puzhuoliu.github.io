@@ -13,5 +13,5 @@ publishDate: '2024-11-12T03:35:19.126522Z'
 publication_types:
 - paper-conference
 publication: '*26th International Conference on Verification, Model Checking, and
-  Abstract Interpretation*'
+  Abstract Interpretation (VMCAI)*'
 ---
