@@ -11,6 +11,6 @@ authors:
 date: '2024-01-01'
 publishDate: '2024-01-13T11:43:53.866184Z'
 publication_types:
-- paper-conference
+- article-journal
 publication: '*ACM Transactions on Software Engineering and Methodology (TOSEM)*'
 ---
