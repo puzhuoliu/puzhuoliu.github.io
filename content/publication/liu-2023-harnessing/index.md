@@ -16,5 +16,5 @@ date: '2025-01-01'
 publishDate: '2024-12-12T04:05:37.973214Z'
 publication_types:
 - article-journal
-publication: 'ACM Transactions on Software Engineering and Methodology'
+publication: '*ACM Transactions on Software Engineering and Methodology (TOSEM)*'
 ---

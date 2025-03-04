@@ -245,6 +245,8 @@ sections:
       title: Acticities
       subtitle: ''
       text: |-
+        - **Program Committee:**
+          - 2025: EXPRESS@ISSTA
         - **Journal Reviewer:**
           - CyberSecurity
           - Journal of Systems Architecture
