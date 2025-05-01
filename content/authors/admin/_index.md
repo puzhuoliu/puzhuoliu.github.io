@@ -17,7 +17,7 @@ last_name: Liu
 superuser: true
 
 # Role/position/tagline
-role: Senior Engineer & PostDoc
+role: Assistant Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -30,8 +30,11 @@ bio: My research interests are in the testing and analysis of embedded devices, 
 
 # Interests to show in About widget
 interests:
-  - Static Analysis
-  - Dynamic Testing
+  - System and Software Security
+  - Static Analysis and Dynamic Testing
+  - LLM/Agent-assisted Analysis and Testing
+  - LLM/Agent Safety Analysis
+
 
 # Education to show in About widget
 education:
@@ -100,7 +103,9 @@ social:
 highlight_name: true
 ---
 
-My research focuses on cybersecurity and software engineering, with an emphasis on enhancing software (binary) reliability, quality and security through static analysis and dynamic testing. Additionally, I am exploring the application of AI to support program analysis and testing techniques.
+My research focuses on cybersecurity and software engineering, with an emphasis on enhancing software (binary) reliability, quality and security through static analysis and dynamic testing. 
+The security of devices in scenarios such as IoT, ICS, robots, UAV, and Embodied AI is a key focus.
+Additionally, I am exploring the application of AI to support program analysis and testing techniques.
 
 If you are interested in my research, please feel free to contact me via email. I would be happy to discuss collaboration opportunities.
 {style="text-align: justify;"}

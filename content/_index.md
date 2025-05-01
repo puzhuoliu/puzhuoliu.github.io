@@ -60,10 +60,10 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Senior Engineer 
-          company: Ang Group
+        - title: Assistant Researcher
+          company: Ang Group & Tsinghua University
           company_url: ''
-          company_logo: ant
+          company_logo: ''
           location: Hangzhou
           date_start: '2024-09-01'
           date_end: ''
