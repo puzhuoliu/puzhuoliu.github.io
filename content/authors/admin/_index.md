@@ -107,4 +107,9 @@ My research centers on cybersecurity and software engineering, with a particular
 
 If my research aligns with your interests, please don’t hesitate to reach out to me via email. I would be delighted to explore potential collaboration opportunities.
 {style="text-align: justify;"}
-<div><b>Research Interests</b></div> 
+<div><b>Research Interests:</b></div> 
+<ul>
+    <li>System and Software Security</li>
+    <li>Static Analysis and Dynamic Testing</li>
+    <li>LLM/Agent-assisted Analysis</li>
+  </ul>
