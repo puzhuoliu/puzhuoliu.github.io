@@ -126,7 +126,7 @@ sections:
       columns: '2'
   - block: experience
     content:
-      title: Eduction Experience
+      title: Education Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
