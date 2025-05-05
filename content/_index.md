@@ -242,7 +242,7 @@ sections:
   - block: contact
     id: act
     content:
-      title: Acticities
+      title: Services
       subtitle: ''
       text: |-
         - **Program Committee:**
