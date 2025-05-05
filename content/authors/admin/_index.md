@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Puzhuo Liu
+title: 刘圃卓 
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+name_pronunciation: Puzhuo Liu
 
 # Full name (for SEO)
 first_name: Puzhuo 
@@ -103,9 +103,7 @@ social:
 highlight_name: true
 ---
 
-My research focuses on cybersecurity and software engineering, with an emphasis on enhancing software (binary) reliability, quality and security through static analysis and dynamic testing. 
-The security of devices in scenarios such as IoT, ICS, robots, UAV, and Embodied AI is a key focus.
-Additionally, I am exploring the application of AI to support program analysis and testing techniques.
+My research centers on cybersecurity and software engineering, with a particular focus on improving software (binary) reliability, quality, and security through advanced techniques such as static analysis and dynamic testing. A key aspect of my work is addressing the security challenges of devices in critical domains, including IoT, ICS, robotics, and Embodied AI. Furthermore, I am actively investigating how artificial intelligence can be leveraged to enhance program analysis and testing methodologies.
 
-If you are interested in my research, please feel free to contact me via email. I would be happy to discuss collaboration opportunities.
+If my research aligns with your interests, please don’t hesitate to reach out to me via email. I would be delighted to explore potential collaboration opportunities.
 {style="text-align: justify;"}
