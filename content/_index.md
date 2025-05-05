@@ -124,6 +124,55 @@ sections:
         #   description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
+  - block: experience
+    content:
+      title: Eduction Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: PhD in Cyberspace Security
+          company:  University of Chinese Academy of Sciences
+          company_url: 'https://scs.ucas.ac.cn/index.php/zh-cn/'
+          company_logo: ''
+          location: China
+          date_start: '2018-09-01'
+          date_end: '2024-07-01'
+          # description: |2-
+          #     Responsibilities include:
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
+        - title: B.Eng in Communication Engineering
+          company:  Jilin University
+          company_url: 'https://dce.jlu.edu.cn/'
+          company_logo: ''
+          location: China
+          date_start: '2014-09-01'
+          date_end: '2018-07-01'
+        # - title: Professor of Semiconductor Physics
+        #   company: University X
+        #   company_url: ''
+        #   company_logo: org-x
+        #   location: California
+        #   date_start: '2016-01-01'
+        #   date_end: '2020-12-31'
+        #   description: Taught electronic engineering and researched semiconductor physics.
+    design:
+      columns: '2'
+
+      #     - course: PhD in Cyberspace Security
+#       institution: University of Chinese Academy of Sciences
+#       year: 2024.7
+#     - course: B.Eng in Communication Engineering
+#       institution:  Jilin University
+#       year: 2018.7
+
   # - block: collection
   #   id: posts
   #   content:
@@ -233,7 +282,7 @@ sections:
       title: Vulnerabilitits
       subtitle: ''
       text: |-
-        **Received over 200 confirmed vulnerabilities for embedded devices (e.g., vendor acknowledgement, CVE, CNVD, PSV), including from Cisco, Siemens, D-Link, and others.**
+        **Received 200+ confirmed vulnerabilities for embedded devices (e.g., vendor acknowledgement, CVE, CNVD, PSV), including from Cisco, Siemens, D-Link, and others.**
 #          - CVE-2020-25242
 #          - CVE-2022-20825
 #          - ...
