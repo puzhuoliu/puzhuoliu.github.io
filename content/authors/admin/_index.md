@@ -17,8 +17,8 @@ last_name: Liu
 superuser: true
 
 # Role/position/tagline
-tagline: 刘圃卓
-role: Assistant Researcher
+
+role: <div>刘圃卓</div> Assistant Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
