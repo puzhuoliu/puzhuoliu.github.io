@@ -108,11 +108,12 @@ My research centers on cybersecurity and software engineering, with a particular
 If my research aligns with your interests, please don’t hesitate to reach out to me via email. I would be delighted to explore potential collaboration opportunities.
 {style="text-align: justify;"}
 <div><b>Research Interests: System and Software Security</b></div> 
-<p style="font-size: 16px;">
-<ul>
+<p style="font-size: 16px;"><ul>
     <li>Static Analysis: taint analysis [<a href="https://puzhuoliu.github.io/publication/liufits/">ASPLOS'24</a>], program reduction [<a href="https://puzhuoliu.github.io/publication/zhenyang/">TOSEM'25</a>]</li>
     <li>Dynamic Testing: fuzzing [<a href="https://puzhuoliu.github.io/publication/bai-2021-dss/">ACNS'21</a>, <a href="https://puzhuoliu.github.io/publication/fang-2021-ics-3-fuzzer/">ACSAC'21</a>, <a href="https://puzhuoliu.github.io/publication/liu-2022-fuzzing/">JSA'22</a>, <a href="https://puzhuoliu.github.io/publication/qin-2023-ucrf/">C&S'23</a>, <a href="https://puzhuoliu.github.io/publication/rob-rest/">VMCAI'25</a>], anti-fuzzing [<a href="https://puzhuoliu.github.io/publication/liuarmor/">TOSEM'24</a>]</li>
     <li>LLM/Agent-assisted Analysis and Testing [<a href="https://puzhuoliu.github.io/publication/liu-2023-harnessing/">TOSEM'25</a>] </li>
-  </ul>
+  </ul>  
+  <p style="color: red;">Recruiting research interns: LLM/Agent for Software Engineering/Programming Languages/System Security and Safety for LLM/Agent.</p>
   </p>
+
 
