@@ -3,7 +3,7 @@
 title: Puzhuo Liu
 
 # Name pronunciation (optional)
-name_pronunciation: 刘圃卓
+# name_pronunciation: 刘圃卓
 
 # Full name (for SEO)
 first_name: Puzhuo 
@@ -17,6 +17,7 @@ last_name: Liu
 superuser: true
 
 # Role/position/tagline
+tagline: 刘圃卓
 role: Assistant Researcher
 
 # Organizations/Affiliations to show in About widget
