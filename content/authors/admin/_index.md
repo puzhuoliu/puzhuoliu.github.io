@@ -37,14 +37,14 @@ interests:
 
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in Cyberspace Security
-      institution: University of Chinese Academy of Sciences
-      year: 2024.7
-    - course: B.Eng in Communication Engineering
-      institution:  Jilin University
-      year: 2018.7
+# education:
+#   courses:
+#     - course: PhD in Cyberspace Security
+#       institution: University of Chinese Academy of Sciences
+#       year: 2024.7
+#     - course: B.Eng in Communication Engineering
+#       institution:  Jilin University
+#       year: 2018.7
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 # skills:
