@@ -26,7 +26,7 @@ organizations:
     # url: https://www.ucas.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in the testing and analysis of embedded devices, including protocols, software, and systems.
+bio: My research interests are code quality and security.
 
 
 # Interests to show in About widget
