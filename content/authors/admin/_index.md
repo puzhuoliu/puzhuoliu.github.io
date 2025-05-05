@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 刘圃卓 
+title: Puzhuo Liu
 
 # Name pronunciation (optional)
-name_pronunciation: Puzhuo Liu
+name_pronunciation: 刘圃卓
 
 # Full name (for SEO)
 first_name: Puzhuo 

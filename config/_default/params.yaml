@@ -43,9 +43,9 @@ header:
 
 # Site footer
 
-footer:
-  copyright:
-    notice: 'Updated on 2025.5.1.'
+# footer:
+#   copyright:
+#     notice: 'Updated on 2025.5.1.'
     # license:
     #   enable: true
     #   allow_derivatives: false
