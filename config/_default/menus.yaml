@@ -22,7 +22,7 @@ main:
   - name: Vulnerabilities
     url: '#bug'
     weight: 30
-  - name: Acticities
+  - name: Services
     url: '#act'
     weight: 40
   - name: Awards

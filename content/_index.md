@@ -46,8 +46,8 @@ sections:
   #     text: ''
   #     # Choose a user to display skills from (a folder name within `content/authors/`)
   #     username: admin
-  #   design:
-  #     columns: '1'
+    design:
+      columns: '1'
   - block: experience
     content:
       title: Work Experience
@@ -64,7 +64,7 @@ sections:
           company: Ang Group & Tsinghua University
           company_url: ''
           company_logo: ''
-          location: Hangzhou
+          location: China
           date_start: '2024-09-01'
           date_end: ''
           # description: |2-

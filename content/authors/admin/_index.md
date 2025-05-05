@@ -32,8 +32,7 @@ bio: My research interests are in the testing and analysis of embedded devices, 
 interests:
   - System and Software Security
   - Static Analysis and Dynamic Testing
-  - LLM/Agent-assisted Analysis and Testing
-  - LLM/Agent Safety Analysis
+  - LLM/Agent-assisted Analysis
 
 
 # Education to show in About widget
