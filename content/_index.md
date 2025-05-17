@@ -302,6 +302,7 @@ sections:
           - Journal of Systems Architecture
           - IEEE Transactions on Software Engineering
           - Computer & Security
+          - The Journal of Supercomputing
     design:
       columns: '2'
 
