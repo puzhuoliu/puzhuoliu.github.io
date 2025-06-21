@@ -295,8 +295,8 @@ sections:
       title: Services
       subtitle: ''
       text: |-
-        - **Program Committee:**
-          - 2025: EXPRESS@ISSTA
+        - **Committee:**
+          - 2025: PC of EXPRESS@ISSTA, AEC of CCS, Shadow PC of EuroSys
         - **Journal Reviewer:**
           - CyberSecurity
           - Journal of Systems Architecture
