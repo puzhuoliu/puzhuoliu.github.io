@@ -94,7 +94,7 @@ sections:
         #   url: ''
     design:
       columns: '2'
-  - block: experience
+  - block: Posts
     content:
       title: Work Experience
       # Date format for experience
