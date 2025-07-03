@@ -62,11 +62,11 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title:  Our paper "LLM-Powered Static Binary Taint Analysis" was accepted by TOSEM!
-          date_start: '2024-12-30'
-          organization:
         - title:  Welcome to the EXPRESS@ISSTA workshop on June 28th!
           date_start: '2025-6-1'
+          organization:
+        - title:  Our paper "LLM-Powered Static Binary Taint Analysis" was accepted by TOSEM!
+          date_start: '2024-12-30'
           organization:
     design:
       columns: '2'
