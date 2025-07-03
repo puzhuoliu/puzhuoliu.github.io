@@ -65,7 +65,6 @@ sections:
         - title:  Welcome to the EXPRESS@ISSTA workshop on June 28th!
           date_start: '2025-6-1'
           organization:
-          url: https://conf.researchr.org/home/issta-2025/express-2025#program
       items:
         - title:  Our paper "LLM-Powered Static Binary Taint Analysis" was accepted by TOSEM!
           date_start: '2024-12-30'
