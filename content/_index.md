@@ -62,35 +62,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-          title:  Our paper "LLM-Powered Static Binary Taint Analysis" was accepted by TOSEM!
+        - title:  Our paper "LLM-Powered Static Binary Taint Analysis" was accepted by TOSEM!
           date_start: '2024-12-30'
           organization:
       items:
-          title:  Welcome to the EXPRESS@ISSTA workshop on June 28th!
+        - title:  Welcome to the EXPRESS@ISSTA workshop on June 28th!
           date_start: '2025-6-1'
           organization:
-
-          # icon: coursera
-          # organization: Coursera
-          # organization_url: https://www.coursera.org
-        # - certificate_url: https://www.edx.org
-        #   date_end: ''
-        #   date_start: '2021-01-01'
-        #   description: Formulated informed blockchain models, hypotheses, and use cases.
-        #   icon: edx
-        #   organization: edX
-        #   organization_url: https://www.edx.org
-        #   title: Blockchain Fundamentals
-        #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        # - certificate_url: https://www.datacamp.com
-        #   date_end: '2020-12-21'
-        #   date_start: '2020-07-01'
-        #   description: ''
-        #   icon: datacamp
-        #   organization: DataCamp
-        #   organization_url: https://www.datacamp.com
-        #   title: 'Object-Oriented Programming in R'
-        #   url: ''
     design:
       columns: '2'
   - block: experience
