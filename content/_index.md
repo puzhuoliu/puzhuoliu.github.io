@@ -56,19 +56,18 @@ sections:
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
-      count: 2
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title:  Welcome to the EXPRESS@ISSTA workshop on June 28th!
-          date_start: '2025-6-1'
+          title:  Our paper "LLM-Powered Static Binary Taint Analysis" was accepted by TOSEM!
+          date_start: '2024-12-30'
           organization:
       items:
-        - title:  Our paper "LLM-Powered Static Binary Taint Analysis" was accepted by TOSEM!
-          date_start: '2024-12-30'
+          title:  Welcome to the EXPRESS@ISSTA workshop on June 28th!
+          date_start: '2025-6-1'
           organization:
 
           # icon: coursera
@@ -94,7 +93,7 @@ sections:
         #   url: ''
     design:
       columns: '2'
-  - block: Posts
+  - block: experience
     content:
       title: Work Experience
       # Date format for experience
