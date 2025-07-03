@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title:  Welcome to the EXPRESS@ISSTA workshop on June 28th!
-          date_start: '2025-6-1'
+          date_start: '2025-06-01'
           organization:
         - title:  Our paper "LLM-Powered Static Binary Taint Analysis" was accepted by TOSEM!
           date_start: '2024-12-30'
