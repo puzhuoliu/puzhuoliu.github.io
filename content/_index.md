@@ -65,7 +65,6 @@ sections:
         - title:  Our paper "LLM-Powered Static Binary Taint Analysis" was accepted by TOSEM!
           date_start: '2024-12-30'
           organization:
-      items:
         - title:  Welcome to the EXPRESS@ISSTA workshop on June 28th!
           date_start: '2025-6-1'
           organization:
@@ -90,20 +89,6 @@ sections:
           location: China
           date_start: '2024-09-01'
           date_end: ''
-          # description: |2-
-          #     Responsibilities include:
-
-          #     * Analysing
-          #     * Modelling
-          #     * Deploying
-        # - title: Professor of Semiconductor Physics
-        #   company: University X
-        #   company_url: ''
-        #   company_logo: org-x
-        #   location: California
-        #   date_start: '2016-01-01'
-        #   date_end: '2020-12-31'
-        #   description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: experience
