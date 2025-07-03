@@ -62,10 +62,16 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title:  Welcome to the EXPRESS@ISSTA workshop on June 28th!
+          date_end: ''
+          date_start: '2025-6-1'
+          description: ''
+          url: https://conf.researchr.org/home/issta-2025/express-2025#program
         - title:  Our paper "LLM-Powered Static Binary Taint Analysis" was accepted by TOSEM!
           date_end: ''
           date_start: '2024-12-30'
           description: ''
+
           # icon: coursera
           # organization: Coursera
           # organization_url: https://www.coursera.org
@@ -296,7 +302,8 @@ sections:
       subtitle: ''
       text: |-
         - **Committee:**
-          - 2025: PC of EXPRESS@ISSTA, LLM4Sec@ICDM, ISPA; AEC of CCS; Shadow PC of EuroSys
+          - 2026: Shadow PC of EuroSys
+          - 2025: PC of EXPRESS@ISSTA, LLM4Sec@ICDM, ISPA; AEC of CCS 
         - **Journal Reviewer:**
           - CyberSecurity
           - Journal of Systems Architecture
