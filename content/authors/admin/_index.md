@@ -86,8 +86,8 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-8995-5924
-  - icon: academicons/dblp
-    icon_pack: fas
+  - icon: dblp
+    icon_pack: Academicons
     link: https://dblp.org/pid/294/5115.html
   # - icon: twitter
   #   icon_pack: fab
