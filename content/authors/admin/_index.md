@@ -92,6 +92,11 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-8995-5924
+  - icon: dblp
+    icon_pack: fab
+    link: https://dblp.org/pid/294/5115.html
+
+    
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
