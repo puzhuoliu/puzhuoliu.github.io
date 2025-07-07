@@ -260,7 +260,7 @@ sections:
       subtitle: ''
       text: |-
         - **Committee:**
-          - 2026: Shadow PC of EuroSys
+          - 2026: Shadow PC of EuroSys; AEC of NDSS
           - 2025: PC of EXPRESS@ISSTA, LLM4Sec@ICDM, ISPA; AEC of CCS 
         - **Journal Reviewer:**
           - CyberSecurity
