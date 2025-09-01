@@ -3,7 +3,7 @@ title: 'ADGFUZZ: Assignment Dependency-Guided Fuzzing for Robotic Vehicles'
 authors:
 - Yuncheng Wang
 - Yaowen Zheng
-- Puzhuo Liu
+- admin
 - Dongliang Fang
 - Jiaxin Cheng
 - Dingyi Shi
