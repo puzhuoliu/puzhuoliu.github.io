@@ -69,7 +69,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title:  Our papers "ADGFUZZ:Assignment Dependency-Guided Fuzzing for Robotic Vehicles" and "User-Space Dependency-Aware Rehosting for Linux-Based Firmware Binaries" were accepted by NDSS 2026!
-          date_start: '2025-8-1'
+          date_start: '2025-08-01'
           organization:
         - title:  Welcome to the EXPRESS@ISSTA workshop on June 28th!
           date_start: '2025-06-01'
