@@ -3,7 +3,7 @@ title: Function Renaming in Reverse Engineering of Embedded Device Firmware with
 authors:
 - admin
 - Peng Di
-- Jiang Yu
+- Yu Jiang
 date: '2025-11-01'
 publishDate: '2025-09-11T05:56:30.703522Z'
 publication_types:
