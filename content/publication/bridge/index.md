@@ -1,7 +1,7 @@
 ---
 title: 'Bridge: High-Order Taint Vulnerabilities Detection in Linux-based IoT Firmware'
 authors:
-- Jiaqiang Peng
+- Jiaqian Peng
 - admin
 - Yicheng Zeng
 - Kai Cheng
