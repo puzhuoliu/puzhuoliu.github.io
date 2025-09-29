@@ -86,7 +86,7 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-8995-5924
-  - icon: academicons/researcherid
+  - icon: researcherid
     icon_pack: ai
     link: https://conf.researchr.org/profile/puzhuoliu
   - icon: dblp
