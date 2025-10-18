@@ -279,6 +279,7 @@ sections:
           - IEEE Transactions on Software Engineering
           - Computer & Security
           - The Journal of Supercomputing
+          - ACM Transactions on Software Engineering and Methodology
     design:
       columns: '2'
 
