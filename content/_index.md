@@ -69,7 +69,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title:  Our paper "BIT:Empowering Binary Analysis Through the LLVM Toolchain " was accepted by CGO 2026!
-          date_start: '2025-09-10'
+          date_start: '2025-11-03'
           organization:
         - title:  Our paper "Bridge:High-Order Taint Vulnerabilities Detection in Linux-based IoT Firmware" was accepted by S&P 2026!
           date_start: '2025-09-10'
