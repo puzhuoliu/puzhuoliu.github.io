@@ -68,6 +68,9 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title:  Our paper "Bond：Constraint-Directed Fuzzing for Automated Validation of Taint Analysis Results in Linux-based IoT Firmware" was accepted by Usenix Sec'26!
+          date_start: '2025-12-18'
+          organization:
         - title:  Our paper "BIT:Empowering Binary Analysis Through the LLVM Toolchain " was accepted by CGO 2026!
           date_start: '2025-11-03'
           organization:
@@ -79,9 +82,6 @@ sections:
           organization:
         - title:  Welcome to the EXPRESS@ISSTA workshop on June 28th!
           date_start: '2025-06-01'
-          organization:
-        - title:  Our paper "LLM-Powered Static Binary Taint Analysis" was accepted by TOSEM!
-          date_start: '2024-12-30'
           organization:
     design:
       columns: '2'
@@ -274,7 +274,7 @@ sections:
       subtitle: ''
       text: |-
         - **Committee:**
-          - 2026: Shadow PC of EuroSys, ICSE; AEC of NDSS, S&P
+          - 2026: Shadow PC of EuroSys, ICSE; AEC of NDSS, S&P, USENIX Securiy
           - 2025: PC of EXPRESS@ISSTA, LLM4Sec@ICDM, ISPA; AEC of CCS 
         - **Journal Reviewer:**
           - CyberSecurity
