@@ -118,9 +118,10 @@ sections:
           company:  University of Chinese Academy of Sciences
           company_url: 'https://scs.ucas.ac.cn/index.php/zh-cn/'
           company_logo: ''
-          location: China · Advisor [Prof. Limin Sun](https://people.ucas.ac.cn/~sunlimin) and [Prof. Yaowen Zheng](https://people.ucas.ac.cn/~zhengyaowen)
+          location: China 
           date_start: '2018-09-01'
           date_end: '2024-07-01'
+          # · Advisor [Prof. Limin Sun](https://people.ucas.ac.cn/~sunlimin) and [Prof. Yaowen Zheng](https://people.ucas.ac.cn/~zhengyaowen)
           # description: ''
           # description: |2-
           #     Responsibilities include:
@@ -131,9 +132,10 @@ sections:
           company:  University of Waterloo
           company_url: 'https://uwaterloo.ca/computer-science/'
           company_logo: ''
-          location: Canada · Advisor <a href="https://cs.uwaterloo.ca/~cnsun/public/">Prof. Chengnian Sun</a>
-    
-          date_start: '2022-09-01'
+          location: Canada
+          advisor: 'Prof. Chengnian Sun'
+          advisor_url: 'https://mit.edu/~jdoe'
+          date_start: 'https://cs.uwaterloo.ca/~cnsun/public/'
           date_end: '2023-08-31'
         - title: B.Eng in Communication Engineering
           company:  Jilin University
