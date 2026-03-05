@@ -110,7 +110,11 @@ social:
 highlight_name: true
 ---
 
-My research centers on cybersecurity and software engineering, with a particular focus on improving software (binary) reliability, quality, and security through advanced techniques such as static analysis and dynamic testing. A key aspect of my work is addressing the security challenges of devices in critical domains, including IoT, ICS, Robot, and Embodied AI. Furthermore, I am actively investigating how artificial intelligence (AI) can be leveraged to enhance program analysis and testing methodologies.
+My research centers on System Security, with a particular focus on safeguarding Critical Information Infrastructures, Cyber-Physic Systems and Intelligent Systems. 
+I am dedicated to improving the reliability, quality, and security of complex systems through advanced techniques such as static analysis, dynamic testing, and AI-powered methodologies. 
+A key aspect of my work addresses deep-seated vulnerabilities in critical domains, including Internet of Things, Industrial Control Systems, Intelligent Unmanned Autonomous Systems, Agentic systems, and AI Infrastructure. 
+
+
 
 If my research aligns with your interests, please don’t hesitate to reach out to me via email. I would be delighted to explore potential collaboration opportunities.
 {style="text-align: justify;"}

@@ -68,6 +68,9 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title:  Submit your work to the (2nd EXPRESS Workshop@SPLASH-ISSTA 2026)[https://conf.researchr.org/home/splash-issta-2026/express-2026] — we welcome your participation!!
+          date_start: '2026-03-01'
+          organization:
         - title:  Our paper "Bond：Constraint-Directed Fuzzing for Automated Validation of Taint Analysis Results in Linux-based IoT Firmware" was accepted by Usenix Sec'26!
           date_start: '2025-12-18'
           organization:
@@ -79,9 +82,6 @@ sections:
           organization:
         - title:  Our papers "ADGFUZZ:Assignment Dependency-Guided Fuzzing for Robotic Vehicles" and "User-Space Dependency-Aware Rehosting for Linux-Based Firmware Binaries" were accepted by NDSS 2026!
           date_start: '2025-08-01'
-          organization:
-        - title:  Welcome to the EXPRESS@ISSTA workshop on June 28th!
-          date_start: '2025-06-01'
           organization:
     design:
       columns: '2'
@@ -121,6 +121,7 @@ sections:
           location: China
           date_start: '2018-09-01'
           date_end: '2024-07-01'
+          description: 'Advisor: Prof. Limin Sun and Prof. Yaowen Zheng'
           # description: |2-
           #     Responsibilities include:
           #     * Analysing
