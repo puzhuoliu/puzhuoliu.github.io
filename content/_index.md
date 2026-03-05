@@ -118,9 +118,10 @@ sections:
           company:  University of Chinese Academy of Sciences
           company_url: 'https://scs.ucas.ac.cn/index.php/zh-cn/'
           company_logo: ''
-          location: China · Advisor [Prof. Limin Sun](https://people.ucas.ac.cn/~sunlimin) and [Prof. Yaowen Zheng](https://people.ucas.ac.cn/~zhengyaowen)
+          location: China 
           date_start: '2018-09-01'
           date_end: '2024-07-01'
+          #· Advisor [Prof. Limin Sun](https://people.ucas.ac.cn/~sunlimin) and [Prof. Yaowen Zheng](https://people.ucas.ac.cn/~zhengyaowen)
           # description: ''
           # description: |2-
           #     Responsibilities include:
