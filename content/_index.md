@@ -123,9 +123,8 @@ sections:
           date_end: '2024-07-01'
           #· Advisor [Prof. Limin Sun](https://people.ucas.ac.cn/~sunlimin) and [Prof. Yaowen Zheng](https://people.ucas.ac.cn/~zhengyaowen)
           # description: ''
-          description: |2-
+          description: |
             Advisor:  [Prof. Limin Sun](https://people.ucas.ac.cn/~sunlimin) and [Prof. Yaowen Zheng](https://people.ucas.ac.cn/~zhengyaowen)
-            Advisor:  "<a href='https://www.csail.mit.edu/person/daniela-rus' target='_blank'>Prof. Daniela Rus</a>"
         - title: Visiting PhD
           company:  University of Waterloo
           company_url: 'https://uwaterloo.ca/computer-science/'
