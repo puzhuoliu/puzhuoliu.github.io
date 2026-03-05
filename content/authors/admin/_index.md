@@ -110,7 +110,7 @@ social:
 highlight_name: true
 ---
 
-My research centers on System Security, with a particular focus on safeguarding Critical Information Infrastructures, Cyber-Physic Systems and Intelligent Systems. 
+My research centers on **System Security**, with a particular focus on safeguarding **Critical Information Infrastructures**, **Cyber-Physic Systems** and **Intelligent Systems**. 
 I am dedicated to improving the reliability, quality, and security of complex systems through advanced techniques such as static analysis, dynamic testing, and AI-powered methodologies. 
 A key aspect of my work addresses deep-seated vulnerabilities in critical domains, including Internet of Things, Industrial Control Systems, Intelligent Unmanned Autonomous Systems, Agentic systems, and AI Infrastructure. 
 
@@ -118,7 +118,7 @@ A key aspect of my work addresses deep-seated vulnerabilities in critical domain
 
 If my research aligns with your interests, please don’t hesitate to reach out to me via email. I would be delighted to explore potential collaboration opportunities.
 {style="text-align: justify;"}
-<div><b>Research Interests: System and Software Security</b></div> 
+<div><b>Research Interests: System Security</b></div> 
 <p style="font-size: 16px;"><ul>
     <li>Static Analysis: Taint Analysis [<a href="https://puzhuoliu.github.io/publication/liu-2022-finding/">ICC'22</a>, <a href="https://puzhuoliu.github.io/publication/liufits/">ASPLOS'24</a>, <a href="https://puzhuoliu.github.io/publication/liu-2023-harnessing/">TOSEM'25</a>, <a href="https://puzhuoliu.github.io/publication/bridge/">S&P'26</a>], Program Reduction [<a href="https://puzhuoliu.github.io/publication/zhenyang/">TOSEM'25</a>], Lifter [<a href="https://puzhuoliu.github.io/publication/bit/">CGO'26</a>]</li>
     <li>Dynamic Testing: Fuzzing [<a href="https://puzhuoliu.github.io/publication/bai-2021-dss/">ACNS'21</a>, <a href="https://puzhuoliu.github.io/publication/fang-2021-ics-3-fuzzer/">ACSAC'21</a>, <a href="https://puzhuoliu.github.io/publication/liu-2022-fuzzing/">JSA'22</a>, <a href="https://puzhuoliu.github.io/publication/qin-2023-ucrf/">C&S'23</a>,  <a href="https://puzhuoliu.github.io/publication/zhang-msg/">ICST'24</a>, <a href="https://puzhuoliu.github.io/publication/rob-rest/">VMCAI'25</a>, <a href="https://puzhuoliu.github.io/publication/adgfuzz/">NDSS'26</a>, <a href="https://puzhuoliu.github.io/publication/bond/">Security'26</a>], Anti-fuzzing [<a href="https://puzhuoliu.github.io/publication/liuarmor/">TOSEM'24</a>], Emulation [<a href="https://puzhuoliu.github.io/publication/firmware/">NDSS'26</a>]</li>
