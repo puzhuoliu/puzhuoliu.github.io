@@ -123,17 +123,17 @@ sections:
           date_end: '2024-07-01'
           #· Advisor [Prof. Limin Sun](https://people.ucas.ac.cn/~sunlimin) and [Prof. Yaowen Zheng](https://people.ucas.ac.cn/~zhengyaowen)
           # description: ''
-          description: |
+          description: |2-
             Advisor:  [Prof. Limin Sun](https://people.ucas.ac.cn/~sunlimin) and [Prof. Yaowen Zheng](https://people.ucas.ac.cn/~zhengyaowen)
         - title: Visiting PhD
           company:  University of Waterloo
           company_url: 'https://uwaterloo.ca/computer-science/'
           company_logo: ''
           location: Canada
-          advisor: 'Prof. Chengnian Sun'
-          advisor_url: 'https://cs.uwaterloo.ca/~cnsun/public/'
           date_start: '2022-09-01'
           date_end: '2023-08-31'
+          description: |2-
+            Advisor:  [Prof. Chengnian Sun](https://cs.uwaterloo.ca/~cnsun/public/) 
         - title: B.Eng in Communication Engineering
           company:  Jilin University
           company_url: 'https://dce.jlu.edu.cn/'
