@@ -131,7 +131,8 @@ sections:
           company:  University of Waterloo
           company_url: 'https://uwaterloo.ca/computer-science/'
           company_logo: ''
-          location: Canada · Advisor [Prof. Chengnian Sun](https://cs.uwaterloo.ca/~cnsun/public/) 
+          location: Canada · Advisor <a href="https://cs.uwaterloo.ca/~cnsun/public/">Prof. Chengnian Sun</a>
+    
           date_start: '2022-09-01'
           date_end: '2023-08-31'
         - title: B.Eng in Communication Engineering
