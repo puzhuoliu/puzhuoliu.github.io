@@ -100,9 +100,9 @@ sections:
           location: China
           date_start: '2024-09-01'
           date_end: ''
-          description: |2-
-            - Industry Team Leader: [Prof. Peng Di](https://pengd.github.io/) 
-            - Academic Advisor: [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964) 
+          description: |2
+            Industry Team Leader: [Prof. Peng Di](https://pengd.github.io/) 
+            Academic Advisor: [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964) 
     design:
       columns: '2'
   - block: experience
