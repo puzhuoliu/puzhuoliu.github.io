@@ -100,6 +100,9 @@ sections:
           location: China
           date_start: '2024-09-01'
           date_end: ''
+          description: |2-
+            Industry Team Leader: [Prof. Peng Di](https://pengd.github.io/) 
+            Academic Advisor: [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964) 
     design:
       columns: '2'
   - block: experience
@@ -124,16 +127,16 @@ sections:
           #· Advisor [Prof. Limin Sun](https://people.ucas.ac.cn/~sunlimin) and [Prof. Yaowen Zheng](https://people.ucas.ac.cn/~zhengyaowen)
           # description: ''
           description: |2-
-            Advisor:  [Prof. Limin Sun](https://people.ucas.ac.cn/~sunlimin) and [Prof. Yaowen Zheng](https://people.ucas.ac.cn/~zhengyaowen)
+            Advisor: [Prof. Limin Sun](https://people.ucas.ac.cn/~sunlimin) and [Prof. Yaowen Zheng](https://people.ucas.ac.cn/~zhengyaowen)
         - title: Visiting PhD
           company:  University of Waterloo
           company_url: 'https://uwaterloo.ca/computer-science/'
           company_logo: ''
-          location: Canada
+          location: Canada 
           date_start: '2022-09-01'
           date_end: '2023-08-31'
           description: |2-
-            Advisor:  [Prof. Chengnian Sun](https://cs.uwaterloo.ca/~cnsun/public/) 
+            Advisor: [Prof. Chengnian Sun](https://cs.uwaterloo.ca/~cnsun/public/) 
         - title: B.Eng in Communication Engineering
           company:  Jilin University
           company_url: 'https://dce.jlu.edu.cn/'
@@ -282,8 +285,12 @@ sections:
       subtitle: ''
       text: |-
         - **Committee:**
-          - 2026: Shadow PC of EuroSys, ICSE; AEC of NDSS, S&P, USENIX Securiy
-          - 2025: PC of EXPRESS@ISSTA, LLM4Sec@ICDM, ISPA; AEC of CCS 
+          - 2026: 
+            - Shadow PC: EuroSys, ICSE
+            - AEC: NDSS, S&P, USENIX Securiy
+          - 2025: 
+            - PC: EXPRESS@ISSTA, LLM4Sec@ICDM, ISPA
+            - AEC: CCS 
         - **Journal Reviewer:**
           - CyberSecurity
           - Journal of Systems Architecture
