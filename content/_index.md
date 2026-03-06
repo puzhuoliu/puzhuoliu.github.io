@@ -101,7 +101,7 @@ sections:
           date_start: '2024-09-01'
           date_end: ''
           description: |2
-            Industry Team Leader: [Prof. Peng Di](https://pengd.github.io/) 
+            Industry Team Leader: [Prof. Peng Di](https://pengd.github.io/) <br>
             Academic Advisor: [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964) 
     design:
       columns: '2'
