@@ -101,8 +101,8 @@ sections:
           date_start: '2024-09-01'
           date_end: ''
           description: |2-
-            Industry Team Leader: [Prof. Peng Di](https://pengd.github.io/) 
-            Academic Advisor: [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964) 
+            - Industry Team Leader: [Prof. Peng Di](https://pengd.github.io/) 
+            - Academic Advisor: [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964) 
     design:
       columns: '2'
   - block: experience
@@ -286,11 +286,13 @@ sections:
       text: |-
         - **Committee:**
           - 2026: 
+            - OC: EXPRESS@ISSTA
             - Shadow PC: EuroSys, ICSE
             - AEC: NDSS, S&P, USENIX Securiy
           - 2025: 
             - PC: EXPRESS@ISSTA, LLM4Sec@ICDM, ISPA
             - AEC: CCS 
+            - Session Chair: EXPRESS@ISSTA, LMPL@SPLASH
         - **Journal Reviewer:**
           - CyberSecurity
           - Journal of Systems Architecture
