@@ -286,13 +286,13 @@ sections:
       text: |-
         - **Committee:**
           - 2026: 
-            - <small>OC: EXPRESS@ISSTA</small>
-            - <small>Shadow PC: EuroSys, ICSE</small>
-            - <small>AEC: NDSS, S&P, USENIX Securiy</small>
+            - OC: EXPRESS@ISSTA
+            - Shadow PC: EuroSys, ICSE
+            - AEC: NDSS, S&P, USENIX Securiy
           - 2025: 
-            - <small>PC: EXPRESS@ISSTA, LLM4Sec@ICDM, ISPA</small>
-            - <small>AEC: CCS 
-            - <small>Session Chair: EXPRESS@ISSTA, LMPL@SPLASH</small>
+            - PC: EXPRESS@ISSTA, LLM4Sec@ICDM, ISPA
+            - AEC: CCS 
+            - Session Chair: EXPRESS@ISSTA, LMPL@SPLASH
         - **Journal Reviewer:**
           - CyberSecurity
           - Journal of Systems Architecture
