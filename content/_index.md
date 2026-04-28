@@ -101,7 +101,7 @@ sections:
           date_start: '2024-09-01'
           date_end: ''
           description: |2
-            [CodeFuse] Team(https://codefuse.ai/) Team work with [Prof. Peng Di](https://pengd.github.io/) <br>
+            [CodeFuse](https://codefuse.ai/) Team work with [Dr. Peng Di](https://pengd.github.io/)
         - title: Assistant Researcher (Postdoc)
           company: Tsinghua University
           company_url: ''
