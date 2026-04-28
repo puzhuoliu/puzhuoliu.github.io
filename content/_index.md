@@ -94,15 +94,25 @@ sections:
       date_format: Jan 2006
       items:
         - title: Assistant Researcher
-          company: Ang Group & Tsinghua University
+          company: Ang Group 
           company_url: ''
           company_logo: ''
           location: China
           date_start: '2024-09-01'
           date_end: ''
           description: |2
-            Industry Team Leader: [Prof. Peng Di](https://pengd.github.io/) <br>
-            Academic Advisor: [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964) 
+            [CodeFuse] Team(https://codefuse.ai/) Team work with [Prof. Peng Di](https://pengd.github.io/) <br>
+           
+      items:
+        - title: Assistant Researcher (Postdoc)
+          company: Tsinghua University
+          company_url: ''
+          company_logo: ''
+          location: China
+          date_start: '2024-09-01'
+          date_end: ''
+          description: |2
+            Advisor: [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964) 
     design:
       columns: '2'
   - block: experience
