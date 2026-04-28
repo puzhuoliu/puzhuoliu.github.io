@@ -102,8 +102,6 @@ sections:
           date_end: ''
           description: |2
             [CodeFuse] Team(https://codefuse.ai/) Team work with [Prof. Peng Di](https://pengd.github.io/) <br>
-           
-      items:
         - title: Assistant Researcher (Postdoc)
           company: Tsinghua University
           company_url: ''
