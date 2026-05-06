@@ -68,19 +68,19 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title:  Our paper "MCPXkit: The Unified Toolkit for Analyzing Model Context Protocol Security" was accepted by TDSC!
+        - title:  Our paper "MCPXkit:The Unified Toolkit for Analyzing Model Context Protocol Security" was accepted by TDSC!
           date_start: '2026-05-01'
           organization:
         - title:  Submit your work to the [2nd EXPRESS Workshop@SPLASH-ISSTA 2026](https://conf.researchr.org/home/splash-issta-2026/express-2026) — we welcome your participation!!
           date_start: '2026-03-01'
           organization:
-        - title:  Our paper "Bond: Constraint-Directed Fuzzing for Automated Validation of Taint Analysis Results in Linux-based IoT Firmware" was accepted by Usenix Sec'26!
+        - title:  Our paper "Bond:Constraint-Directed Fuzzing for Automated Validation of Taint Analysis Results in Linux-based IoT Firmware" was accepted by Usenix Sec'26!
           date_start: '2025-12-18'
           organization:
-        - title:  Our paper "BIT: Empowering Binary Analysis Through the LLVM Toolchain " was accepted by CGO 2026!
+        - title:  Our paper "BIT:Empowering Binary Analysis Through the LLVM Toolchain " was accepted by CGO 2026!
           date_start: '2025-11-03'
           organization:
-        - title:  Our paper "Bridge: High-Order Taint Vulnerabilities Detection in Linux-based IoT Firmware" was accepted by S&P 2026!
+        - title:  Our paper "Bridge:High-Order Taint Vulnerabilities Detection in Linux-based IoT Firmware" was accepted by S&P 2026!
           date_start: '2025-09-10'
           organization:
     design:
