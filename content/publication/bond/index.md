@@ -2,7 +2,7 @@
 title: 'Bond: Constraint-Directed Fuzzing for Automated Validation of Taint Analysis Results in Linux-based IoT Firmware'
 authors:
 - Jiaqian Peng
-- "<strong>Puzhuo Liu</strong> (Co-First)"
+- "{{< markdownify >}}**Puzhuo Liu**{{< /markdownify >}} (Co-First)"
 - Kai Cheng
 - Zhaoteng Yan
 - Jie Liu
