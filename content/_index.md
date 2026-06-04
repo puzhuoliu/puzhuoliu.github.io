@@ -293,10 +293,13 @@ sections:
       subtitle: ''
       text: |-
         - **Committee:**
+          - 2027:
+            - AEC: NDSS
           - 2026: 
             - OC: EXPRESS@ISSTA
+            - PC: LLM4Sec@ESORICS
             - Shadow PC: EuroSys, ICSE
-            - AEC: NDSS, S&P, USENIX Securiy
+            - AEC: NDSS, S&P, USENIX Securiy, CCS
           - 2025: 
             - PC: EXPRESS@ISSTA, LLM4Sec@ICDM, ISPA
             - AEC: CCS 
