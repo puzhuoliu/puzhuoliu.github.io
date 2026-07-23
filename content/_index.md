@@ -68,6 +68,9 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title:  Honored to join the [Security PC this year](https://www.usenix.org/conference/usenixsecurity27)! If you have cool security research, please submit! August 11–13, 2027, Denver, CO, USA. 
+          date_start: '2026-07-10'
+          organization:
         - title:  Our paper "MCPXkit:The Unified Toolkit for Analyzing Model Context Protocol Security" was accepted by TDSC!
           date_start: '2026-05-01'
           organization:
@@ -79,9 +82,6 @@ sections:
           organization:
         - title:  Our paper "BIT:Empowering Binary Analysis Through the LLVM Toolchain " was accepted by CGO 2026!
           date_start: '2025-11-03'
-          organization:
-        - title:  Our paper "Bridge:High-Order Taint Vulnerabilities Detection in Linux-based IoT Firmware" was accepted by S&P 2026!
-          date_start: '2025-09-10'
           organization:
     design:
       columns: '2'
@@ -294,12 +294,13 @@ sections:
       text: |-
         - **Committee:**
           - 2027:
+            - PC: Securiy
             - AEC: NDSS
           - 2026: 
             - OC: EXPRESS@ISSTA
             - PC: LLM4Sec@ESORICS
             - Shadow PC: EuroSys, ICSE
-            - AEC: NDSS, S&P, USENIX Securiy, CCS
+            - AEC: NDSS, S&P, Securiy, CCS
           - 2025: 
             - PC: EXPRESS@ISSTA, LLM4Sec@ICDM, ISPA
             - AEC: CCS 
