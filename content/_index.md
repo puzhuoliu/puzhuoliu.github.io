@@ -294,7 +294,7 @@ sections:
       text: |-
         - **Committee:**
           - 2027:
-            - PC: Securiy
+            - PC: Security
             - AEC: NDSS
           - 2026: 
             - OC: EXPRESS@ISSTA
