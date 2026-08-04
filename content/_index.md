@@ -279,7 +279,10 @@ sections:
       title: Vulnerabilitits
       subtitle: ''
       text: |-
-        **Received 200+ confirmed vulnerabilities for embedded devices (e.g., vendor acknowledgement, CVE, CNVD, PSV), including from Cisco, Siemens, D-Link, and others.**
+        Discovered more than **1,000+** quality issues and security vulnerabilities across devices from major vendors, including Cisco, Siemens, D-Link, NETGEAR, Tenda, and Motorola, and actively assisted the vendors in developing and implementing fixes. These security research contributions have resulted in over **300+** acknowledgments and vulnerability identifiers from vendors and organizations, including CVE, CNVD, and PSV.
+        Notable findings include:
+        - CVE-2020-25242: A high-severity vulnerability (DoS) that had remained undetected in Siemens PLC devices for more than a decade.
+        - CVE-2022-20825: A critical vulnerability (RCE) affecting multiple Cisco devices, with the maximum CVSS v2.0 score of 10.0.
 #          - CVE-2020-25242
 #          - CVE-2022-20825
 #          - ...
