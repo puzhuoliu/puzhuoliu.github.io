@@ -13,4 +13,6 @@ publishDate: '2025-12-11T05:56:30.713347Z'
 publication_types:
 - paper-conference
 publication: '*The 35th USENIX Security Symposium (Security)*'
+co_first_authors: [0, 1]
+corresponding_authors: [1, 2]
 ---

@@ -68,6 +68,9 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title:  Our paper "MemPoison Bypassing Selective Memory Mechanisms to Plant Backdoors in LLM Agents" was accepted by CCS 2026!
+          date_start: '2026-08-28'
+          organization:
         - title:  Honored to join the [Security PC this year](https://www.usenix.org/conference/usenixsecurity27)! If you have cool security research, please submit! August 11–13, 2027, Denver, CO, USA. 
           date_start: '2026-07-10'
           organization:
@@ -80,9 +83,6 @@ sections:
         - title:  Our paper "Bond:Constraint-Directed Fuzzing for Automated Validation of Taint Analysis Results in Linux-based IoT Firmware" was accepted by Usenix Sec'26!
           date_start: '2025-12-18'
           organization:
-        - title:  Our paper "BIT:Empowering Binary Analysis Through the LLVM Toolchain " was accepted by CGO 2026!
-          date_start: '2025-11-03'
-          organization:
     design:
       columns: '2'
   - block: experience
@@ -93,7 +93,7 @@ sections:
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       items:
-        - title: Assistant Researcher
+        - title: Researcher
           company: Ang Group 
           company_url: ''
           company_logo: ''
@@ -248,6 +248,7 @@ sections:
     content:
       title: Publications
       text: |-
+        <p style="font-size:0.85em;opacity:0.7;margin-bottom:1rem;"><sup>†</sup> Co-first author　<sup>✉</sup> Corresponding author</p>
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
@@ -346,7 +347,12 @@ sections:
       # text: |-
     #     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: ianianlpz@gmail.com
+      emails:
+        - value: liupz@mail.tsinghua.edu.cn       # 有效
+        - value: liupuzhuo.lpz@antgroup.com        # 有效
+        - value: ianianlpz@gmail.com        # 有效
+        - value: liupuzhuo@iie.ac.cn               # 已过期（划线，不可点）
+          expired: true
 
 
 

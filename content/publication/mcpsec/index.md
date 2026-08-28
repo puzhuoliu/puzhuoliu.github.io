@@ -14,4 +14,5 @@ publishDate: '2026-04-13T11:43:53.866184Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Dependable and Secure Computing (TDSC)*'
+corresponding_authors: [1, 6]
 ---

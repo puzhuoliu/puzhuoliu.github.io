@@ -125,7 +125,7 @@ If my research aligns with your interests, please don’t hesitate to reach out 
   <p style="font-size: 16px;"><ul>
     <li>(Industrial) Internet of Things Systems [<a href="https://puzhuoliu.github.io/publication/liuarmor/">TOSEM'24</a>, <a href="https://puzhuoliu.github.io/publication/liufits/">ASPLOS'24</a>, <a href="https://puzhuoliu.github.io/publication/liu-2023-harnessing/">TOSEM'25</a>, <a href="https://puzhuoliu.github.io/publication/bridge/">S&P'26</a>, <a href="https://puzhuoliu.github.io/publication/firmware/">NDSS'26</a>, <a href="https://puzhuoliu.github.io/publication/bond/">Security'26</a>]</li>
     <li>Autonomous Unmanned Systems [<a href="https://puzhuoliu.github.io/publication/adgfuzz/">NDSS'26</a>]</li>
-    <li>AI Infrastructure & Agentic Systems [<a href="https://puzhuoliu.github.io/publication/mcpsec/">TDSC'26</a>]</li>
+    <li>AI Infrastructure & Agentic Systems [<a href="https://puzhuoliu.github.io/publication/mcpsec/">TDSC'26</a>, <a href="https://puzhuoliu.github.io/publication/agentmemory/">CCS'26</a>]</li>
   </ul>  
   <p style="color: red;">Recruiting research interns: LLM/Agent for Software Engineering/Programming Languages/System Security and Safety for LLM/Agent.</p>
   </p>
