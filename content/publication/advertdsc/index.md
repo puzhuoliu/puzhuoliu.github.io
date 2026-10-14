@@ -1,5 +1,5 @@
 ---
-title: 'MCPXkit: The Unified Toolkit for Analyzing Model Context Protocol Security'
+title: 'Generating Adversarial Network Traffic via Multi-Model Guided Adversarial Diffusion'
 authors:
 - Hongtao Wang
 - Xianao Wang
