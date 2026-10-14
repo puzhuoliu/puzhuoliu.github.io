@@ -18,11 +18,11 @@ superuser: true
 
 # Role/position/tagline
 
-role: <div>刘圃卓</div> Assistant Researcher
+role: <div>刘圃卓</div> Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Ant Group & Tsinghua University
+  - name: School of Cybersecurity, Tianjin University
     # url: https://www.ucas.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -127,7 +127,15 @@ If my research aligns with your interests, please don’t hesitate to reach out 
     <li>Autonomous Unmanned Systems [<a href="https://puzhuoliu.github.io/publication/adgfuzz/">NDSS'26</a>]</li>
     <li>AI Infrastructure & Agentic Systems [<a href="https://puzhuoliu.github.io/publication/mcpsec/">TDSC'26</a>, <a href="https://puzhuoliu.github.io/publication/agentmemory/">CCS'26</a>]</li>
   </ul>  
-  <p style="color: red;">Recruiting research interns: LLM/Agent for Software Engineering/Programming Languages/System Security and Safety for LLM/Agent.</p>
+  <p style="color: red;">I‘m recruiting Master’s and Ph.D. students, as well as undergraduate research interns, who are interested in the security and safety of intelligent and autonomous systems.
+We value the following qualities:</p>
+<li class="requirement-item">
+            <div class="req-title">Resilience and well-being:</div>
+            <p class="req-content">
+                 Maintaining good physical and mental health and engaging in research with stability, positivity, and long-term commitment.
+            </p>
+        </li>
+</p>
   </p>
 
 

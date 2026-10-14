@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2024-5-10
+date: 2026-5-10
 type: landing
 
 sections:
@@ -68,6 +68,9 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title:  Our paper "Generating Adversarial Network Traffic via Multi-Model Guided Adversarial Diffusion" was accepted by TDSC!
+          date_start: '2026-10-01'
+          organization:
         - title:  Our paper "MemPoison Bypassing Selective Memory Mechanisms to Plant Backdoors in LLM Agents" was accepted by CCS 2026!
           date_start: '2026-08-28'
           organization:
@@ -80,9 +83,6 @@ sections:
         - title:  Submit your work to the [2nd EXPRESS Workshop@SPLASH-ISSTA 2026](https://conf.researchr.org/home/splash-issta-2026/express-2026) — we welcome your participation!!
           date_start: '2026-03-01'
           organization:
-        - title:  Our paper "Bond:Constraint-Directed Fuzzing for Automated Validation of Taint Analysis Results in Linux-based IoT Firmware" was accepted by Usenix Sec'26!
-          date_start: '2025-12-18'
-          organization:
     design:
       columns: '2'
   - block: experience
@@ -93,13 +93,20 @@ sections:
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       items:
-        - title: Researcher
+        - title: Researcher (Postdoc)
+          company: School of Cybersecurity, Tianjin University
+          company_url: ''
+          company_logo: ''
+          location: China
+          date_start: '2026-10-01'
+          date_end: ''
+        - title: Researcher (Postdoc)
           company: Ang Group 
           company_url: ''
           company_logo: ''
           location: China
           date_start: '2024-09-01'
-          date_end: ''
+          date_end: '2026-10-01'
           description: |2
             [CodeFuse Team](https://codefuse.ai/) Advisor: [Dr. Peng Di](https://pengd.github.io/)
         - title: Assistant Researcher (Postdoc)
@@ -108,7 +115,7 @@ sections:
           company_logo: ''
           location: China
           date_start: '2024-09-01'
-          date_end: ''
+          date_end: '2026-10-01'
           description: |2
             Advisor: [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964) 
     design:
@@ -349,7 +356,9 @@ sections:
       # Contact (add or remove contact options as necessary)
       emails:
         - value: liupz@mail.tsinghua.edu.cn       # 有效
+          expired: true
         - value: liupuzhuo.lpz@antgroup.com        # 有效
+          expired: true
         - value: ianianlpz@gmail.com        # 有效
         - value: liupuzhuo@iie.ac.cn               # 已过期（划线，不可点）
           expired: true
