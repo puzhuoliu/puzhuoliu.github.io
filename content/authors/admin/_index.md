@@ -116,12 +116,14 @@ My research centers on **Quality and Security** assurance for Cyber-Physical Sys
 If my research aligns with your interests, please don’t hesitate to reach out to me via email. I would be delighted to explore potential collaboration opportunities.
 {style="text-align: justify;"}
 
-<b>Research Interests: QS for Cyber-Physical & Intelligent Systems</b>
-    <ul style="margin-top: 0; font-size: 16px;">
+<div class="research-interests">
+  <b class="research-title">Research Interests: QS for Cyber-Physical & Intelligent Systems</b>
+  <ul style="margin-top: 0; padding-left: 20px;">
     <li>(Industrial) Internet of Things Systems [<a href="https://puzhuoliu.github.io/publication/liuarmor/">TOSEM'24</a>, <a href="https://puzhuoliu.github.io/publication/liufits/">ASPLOS'24</a>, <a href="https://puzhuoliu.github.io/publication/liu-2023-harnessing/">TOSEM'25</a>, <a href="https://puzhuoliu.github.io/publication/bridge/">S&P'26</a>, <a href="https://puzhuoliu.github.io/publication/firmware/">NDSS'26</a>, <a href="https://puzhuoliu.github.io/publication/bond/">Security'26</a>]</li>
     <li>Autonomous Unmanned Systems [<a href="https://puzhuoliu.github.io/publication/adgfuzz/">NDSS'26</a>]</li>
     <li>AI Infrastructure & Agentic Systems [<a href="https://puzhuoliu.github.io/publication/mcpsec/">TDSC'26</a>, <a href="https://puzhuoliu.github.io/publication/agentmemory/">CCS'26</a>]</li>
   </ul>  
+</div>
 
 
 <b style="color: red;">Openings (M.S. / Ph.D. / Undergrad Interns)</b>
@@ -131,7 +133,7 @@ If my research aligns with your interests, please don’t hesitate to reach out 
     Beyond academic background, we require:
   </p>
 <ul style="margin-top: 0; font-size: 16px;">
-  <li><b>Stable Core:</b></li>
-  <li><b>Self-Motivation:</b></li>
-  <li><b>AI Mastery:</b></li>
+  <li>Stable Core:  Maintaining good physical and mental health.</li>
+  <li>Self-Motivation: Demonstrating a strong sense of ownership, independent thinking, intellectual curiosity, and initiative.</li>
+  <li>AI Mastery: Using AI tools effectively without taking their outputs at face value; critically evaluating, questioning.</li>
 </ul>
