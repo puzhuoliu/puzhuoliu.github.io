@@ -108,7 +108,7 @@ sections:
           date_start: '2024-09-01'
           date_end: '2026-10-01'
           description: |2
-            Advisor: [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964) & [Dr. Peng Di](https://pengd.github.io/)
+            Advisor: [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964) and [Dr. Peng Di](https://pengd.github.io/)
     design:
       columns: '2'
   - block: experience
