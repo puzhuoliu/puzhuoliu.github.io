@@ -117,7 +117,7 @@ If my research aligns with your interests, please don’t hesitate to reach out 
 {style="text-align: justify;"}
 
 <div class="research-interests">
-  <b class="research-title">Research Interests: QS for Cyber-Physical & Intelligent Systems</b>
+  <b class="research-title">Research Interests: QS for Cyber-Physical & Unmanned & Intelligent Systems</b>
   
   <ul style="margin-top: 0; padding-left: 20px; font-size: 16px;">
     <li>(Industrial) Internet of Things Systems [<a href="https://puzhuoliu.github.io/publication/liuarmor/">TOSEM'24</a>, <a href="https://puzhuoliu.github.io/publication/liufits/">ASPLOS'24</a>, <a href="https://puzhuoliu.github.io/publication/liu-2023-harnessing/">TOSEM'25</a>, <a href="https://puzhuoliu.github.io/publication/bridge/">S&P'26</a>, <a href="https://puzhuoliu.github.io/publication/firmware/">NDSS'26</a>, <a href="https://puzhuoliu.github.io/publication/bond/">Security'26</a>]</li>
@@ -128,16 +128,18 @@ If my research aligns with your interests, please don’t hesitate to reach out 
 
 
 <div class="recuir">
-  <b class="recuir-title; style=color: red;">Openings (M.S. / Ph.D. / Undergrad Interns)</b>
-    <p style="margin-top: 0;">
-    We do hardcore security research, and we need hardcore teammates.
-    Beyond academic background, we require:
+  <!-- 修正了 b 标签的属性写法，将 class 和 style 分开写 -->
+  <b class="recuir-title" style="color: red; display: block; margin-bottom: 0;">Openings (M.S. / Ph.D. / Undergrad Interns)</b>
+  
+  <!-- 压缩 p 标签与上下的间距：margin-top 贴紧标题，margin-bottom 贴紧列表 -->
+  <p style="margin-top: 4px; margin-bottom: 2px;">
+    We do hardcore security research, and we need hardcore teammates. Beyond academic background, we require:
   </p>
-  <ul style="margin-top: 0; padding-left: 20px; font-size: 16px;">
-  <li>Stable Core:  Maintaining good physical and mental health.</li>
-  <li>Self-Motivation: Demonstrating a strong sense of ownership, independent thinking, intellectual curiosity, and initiative.</li>
-  <li>AI Mastery: Using AI tools effectively without taking their outputs at face value; critically evaluating, questioning.</li>
+  
+  <!-- 压缩 ul 标签的顶部间距，并加上行高让换行文字不挤 -->
+  <ul style="margin-top: 0; margin-bottom: 0; padding-left: 20px; font-size: 16px; line-height: 1.6;">
+    <li style="margin-bottom: 8px;"><b>Stable Core:</b> Maintaining good physical and mental health.</li>
+    <li style="margin-bottom: 8px;"><b>Self-Motivation:</b> Demonstrating a strong sense of ownership, independent thinking, intellectual curiosity, and initiative.</li>
+    <li><b>AI Mastery:</b> Using AI tools effectively without taking their outputs at face value; critically evaluating, questioning.</li>
   </ul>  
 </div>
-
-
