@@ -139,7 +139,7 @@ If my research aligns with your interests, please don’t hesitate to reach out 
   <!-- 压缩 ul 标签的顶部间距，并加上行高让换行文字不挤 -->
   <ul style="margin-top: 0; margin-bottom: 0; padding-left: 20px; font-size: 16px; line-height: 1.6;">
     <li style="margin-bottom: 8px;"><b>Stable Core:</b> Maintaining good physical and mental health.</li>
-    <li style="margin-bottom: 8px;"><b>Self-Motivation:</b> Demonstrating a strong sense of ownership, independent thinking, intellectual curiosity, and initiative.</li>
+    <li style="margin-bottom: 8px;"><b>Self-Motivation:</b> Demonstrating a sense of ownership, independent thinking, intellectual curiosity, and initiative.</li>
     <li><b>AI Mastery:</b> Using AI tools effectively without taking their outputs at face value; critically evaluating, questioning.</li>
   </ul>  
 </div>
