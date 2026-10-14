@@ -127,15 +127,15 @@ If my research aligns with your interests, please don’t hesitate to reach out 
     <li>Autonomous Unmanned Systems [<a href="https://puzhuoliu.github.io/publication/adgfuzz/">NDSS'26</a>]</li>
     <li>AI Infrastructure & Agentic Systems [<a href="https://puzhuoliu.github.io/publication/mcpsec/">TDSC'26</a>, <a href="https://puzhuoliu.github.io/publication/agentmemory/">CCS'26</a>]</li>
   </ul>  
-  <p style="color: red;">I‘m recruiting Master’s and Ph.D. students, as well as undergraduate research interns, who are interested in the security and safety of intelligent and autonomous systems.
-We value the following qualities:</p>
-<li class="requirement-item">
-            <div class="req-title">Resilience and well-being:</div>
-            <p class="req-content">
-                 Maintaining good physical and mental health and engaging in research with stability, positivity, and long-term commitment.
-            </p>
-        </li>
-</p>
+  </p>
+
+  <p style="color: red;">Openings (M.S. / Ph.D. / Undergrad Interns)</p> 
+  We do hardcore security research, and we need hardcore teammates. Beyond academic background, we require:
+ <p style="font-size: 16px;"><ul>
+  <li>Stable Core:</li>
+  <li>Self-motivation:</li>
+  <li>AI Mastery:</li>
+  </ul>  
   </p>
 
 
