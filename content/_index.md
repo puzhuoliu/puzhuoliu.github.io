@@ -101,7 +101,7 @@ sections:
           date_start: '2026-10-01'
           date_end: ''          
         - title: Assistant Researcher (Postdoc)
-          company: Tsinghua University & Ang Group 
+          company: Tsinghua University & Ant Group 
           company_url: ''
           company_logo: ''
           location: China
