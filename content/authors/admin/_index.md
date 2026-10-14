@@ -129,7 +129,7 @@ If my research aligns with your interests, please don’t hesitate to reach out 
 
 <div class="recuir">
   <!-- 修正了 b 标签的属性写法，将 class 和 style 分开写 -->
-  <b class="recuir-title" style="color: red; display: block; margin-bottom: 0;">Openings (M.S. / Ph.D. / Undergrad Interns)</b>
+  <b class="recuir-title" style="color: red; display: block; margin-bottom: 0;">Openings (M.S. / Ph.D. / Undergraduate Interns / Research Interns)</b>
   
   <!-- 压缩 p 标签与上下的间距：margin-top 贴紧标题，margin-bottom 贴紧列表 -->
   <p style="margin-top: 4px; margin-bottom: 2px;">

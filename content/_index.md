@@ -99,25 +99,16 @@ sections:
           company_logo: ''
           location: China
           date_start: '2026-10-01'
-          date_end: ''
-        - title: Researcher (Postdoc)
-          company: Ang Group 
-          company_url: ''
-          company_logo: ''
-          location: China
-          date_start: '2024-09-01'
-          date_end: '2026-10-01'
-          description: |2
-            [CodeFuse Team](https://codefuse.ai/) Advisor: [Dr. Peng Di](https://pengd.github.io/)
+          date_end: ''          
         - title: Assistant Researcher (Postdoc)
-          company: Tsinghua University
+          company: Tsinghua University & Ang Group 
           company_url: ''
           company_logo: ''
           location: China
           date_start: '2024-09-01'
           date_end: '2026-10-01'
           description: |2
-            Advisor: [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964) 
+            Advisor: [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964) & [Dr. Peng Di](https://pengd.github.io/)
     design:
       columns: '2'
   - block: experience
