@@ -115,14 +115,9 @@ My research centers on **Quality and Security** assurance for Cyber-Physical Sys
 
 If my research aligns with your interests, please don’t hesitate to reach out to me via email. I would be delighted to explore potential collaboration opportunities.
 {style="text-align: justify;"}
-<div style="font-size: 16px;">
+
 <b>Research Interests: QS for Cyber-Physical & Intelligent Systems</b>
-<!-- <p style="font-size: 16px;"><ul>
-    <li>Static Analysis: Taint Analysis [<a href="https://puzhuoliu.github.io/publication/liu-2022-finding/">ICC'22</a>, <a href="https://puzhuoliu.github.io/publication/liufits/">ASPLOS'24</a>, <a href="https://puzhuoliu.github.io/publication/liu-2023-harnessing/">TOSEM'25</a>, <a href="https://puzhuoliu.github.io/publication/bridge/">S&P'26</a>], Program Reduction [<a href="https://puzhuoliu.github.io/publication/zhenyang/">TOSEM'25</a>], Lifter [<a href="https://puzhuoliu.github.io/publication/bit/">CGO'26</a>]</li>
-    <li>Dynamic Testing: Fuzzing [<a href="https://puzhuoliu.github.io/publication/bai-2021-dss/">ACNS'21</a>, <a href="https://puzhuoliu.github.io/publication/fang-2021-ics-3-fuzzer/">ACSAC'21</a>, <a href="https://puzhuoliu.github.io/publication/liu-2022-fuzzing/">JSA'22</a>, <a href="https://puzhuoliu.github.io/publication/qin-2023-ucrf/">C&S'23</a>,  <a href="https://puzhuoliu.github.io/publication/zhang-msg/">ICST'24</a>, <a href="https://puzhuoliu.github.io/publication/rob-rest/">VMCAI'25</a>, <a href="https://puzhuoliu.github.io/publication/adgfuzz/">NDSS'26</a>, <a href="https://puzhuoliu.github.io/publication/bond/">Security'26</a>], Anti-fuzzing [<a href="https://puzhuoliu.github.io/publication/liuarmor/">TOSEM'24</a>], Emulation [<a href="https://puzhuoliu.github.io/publication/firmware/">NDSS'26</a>]</li>
-  </ul>  
-  <p style="color: red;">Recruiting research interns: LLM/Agent for Software Engineering/Programming Languages/System Security and Safety for LLM/Agent.</p>
-  </p> -->
+<div style="font-size: 16px;">
     <ul>
     <li>(Industrial) Internet of Things Systems [<a href="https://puzhuoliu.github.io/publication/liuarmor/">TOSEM'24</a>, <a href="https://puzhuoliu.github.io/publication/liufits/">ASPLOS'24</a>, <a href="https://puzhuoliu.github.io/publication/liu-2023-harnessing/">TOSEM'25</a>, <a href="https://puzhuoliu.github.io/publication/bridge/">S&P'26</a>, <a href="https://puzhuoliu.github.io/publication/firmware/">NDSS'26</a>, <a href="https://puzhuoliu.github.io/publication/bond/">Security'26</a>]</li>
     <li>Autonomous Unmanned Systems [<a href="https://puzhuoliu.github.io/publication/adgfuzz/">NDSS'26</a>]</li>
@@ -131,4 +126,12 @@ If my research aligns with your interests, please don’t hesitate to reach out 
   </div>
 
 
-
+<b>Openings (M.S. / Ph.D. / Undergrad Interns)</b>
+  We do hardcore security research, and we need hardcore teammates. Beyond academic background, we require:
+<div style="font-size: 16px;">
+  <ul>
+    <li>Stable Core:</li>
+    <li>Self-motivation:</li>
+    <li>AI Mastery:</li>
+  </ul>  
+  </div>
