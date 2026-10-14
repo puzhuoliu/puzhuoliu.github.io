@@ -93,7 +93,7 @@ sections:
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       items:
-        - title: Researcher (Postdoc)
+        - title: Associate Professor
           company: School of Cybersecurity, Tianjin University
           company_url: ''
           company_logo: ''
