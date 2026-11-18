@@ -308,6 +308,7 @@ sections:
             - AEC: CCS 
             - Session Chair: EXPRESS@ISSTA, LMPL@SPLASH
         - **Journal Reviewer:**
+          - ACM Computing Surveys
           - CyberSecurity
           - Journal of Systems Architecture
           - IEEE Transactions on Software Engineering
